@@ -79,6 +79,7 @@ DATASET:
 ![image](https://github.com/Sanafathima95773/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/147084627/d62a79db-cf79-4c65-9b45-e3500bddfe7b)
 CENTROIDS AND LABELS:
 ![image](https://github.com/Sanafathima95773/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/147084627/e3db59ad-3fa4-40cd-b8a9-1a583d863109)
+
 GRAPH:
 ![image](https://github.com/Sanafathima95773/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/147084627/ba452814-e647-48a8-bcd8-4fd4acf89efd)
 
